@@ -8,7 +8,7 @@
 
 ###This software is provided "as is" without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. 
 
-###I do not recommend using these algorithms or this package.  This is for educational purposes.
+###I do not recommend using these algorithms or this package.  This is for educational purposes.  However, I do manual testing on each algorithm and may start adding unit tests before I add the linked list chapter.
 
 ##Current Status:
 ##Incomplete (barely started - even the setup for this package isn't done) v1.0.0.dev1
